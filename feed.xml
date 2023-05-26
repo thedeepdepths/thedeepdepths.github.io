@@ -40,7 +40,34 @@
       <author>thedeepdepths@protonmail.com</author>
       <link>https://www.deepdepths.com</link>
       <pubDate>2021-09-24 00:00:00</pubDate>
-      <enclosure url="http://thedeepdepths.github.io/mp3s/DeepDepths-02.mp3" length="33533952" duration="2564" type="audio/mpeg"/>
+      <enclosure url="http://thedeepdepths.github.io/mp3s/DeepDepths-03.mp3" length="33533952" duration="2564" type="audio/mpeg"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">ad0b4837-49ae-4a35-bdc2-b00ea66efb0e</guid>
+      <title>Episode 4: Albania recap</title>
+      <description>Albania recap! Discussing Ed’s recent trip to Albania, and comparing & contrasting its culture and history to ours.</description>
+      <author>thedeepdepths@protonmail.com</author>
+      <link>https://www.deepdepths.com</link>
+      <pubDate>2021-10-29 00:00:00</pubDate>
+      <enclosure url="http://thedeepdepths.github.io/mp3s/DeepDepths-04.mp3" length="43630592" duration="3790" type="audio/mpeg"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">ef5cb128-9602-4213-bf45-0750c08da2ad</guid>
+      <title>Episode 5: Homeschooling</title>
+      <description>Homeschooling! Discussing homeschooling, the benefits, and the problem with public schools.</description>
+      <author>thedeepdepths@protonmail.com</author>
+      <link>https://www.deepdepths.com</link>
+      <pubDate>2021-11-05 00:00:00</pubDate>
+      <enclosure url="http://thedeepdepths.github.io/mp3s/DeepDepths-05.mp3" length="34328576" duration="2848" type="audio/mpeg"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">6aeee5cb-3875-4115-a9c0-ec95d917631a</guid>
+      <title>Episode 6: Homeschooling, part 1</title>
+      <description>Homeschooling, part 2! We go more in depth into how our families implement our own versions of homeschooling, and how to get started homeschooling yourself. Featuring a couple very special guests!</description>
+      <author>thedeepdepths@protonmail.com</author>
+      <link>https://www.deepdepths.com</link>
+      <pubDate>2021-11-12 00:00:00</pubDate>
+      <enclosure url="http://thedeepdepths.github.io/mp3s/DeepDepths-06.mp3" length="53633024" duration="4489" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
