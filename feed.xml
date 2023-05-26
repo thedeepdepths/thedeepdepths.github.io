@@ -21,5 +21,26 @@
       <pubDate>2021-07-30 00:00:00</pubDate>
       <enclosure url="http://thedeepdepths.github.io/mp3s/DeepDepths-01.mp3" length="30588928" duration="2686" type="audio/mpeg"/>
     </item>
+    <item>
+      <guid isPermaLink="false">5883ee2e-f89c-45cf-84ee-4dc95bac46b6</guid>
+      <title>Episode 2: Potpourri</title>
+      <description>Freeform conversation about all sorts of things, from woke language to homeschooling.</description>
+      <author>thedeepdepths@protonmail.com</author>
+      <link>https://www.deepdepths.com</link>
+      <pubDate>2021-09-23 00:00:00</pubDate>
+      <enclosure url="http://thedeepdepths.github.io/mp3s/DeepDepths-02.mp3" length="44810240" duration="3527" type="audio/mpeg"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">2209f214-9120-4ac6-9543-1069dbfdf396</guid>
+      <title>Episode 3: Proverbs 25:26</title>
+      <description>Musings on Proverbs 25:26!
+
+“Like a muddied spring or a polluted well
+    are the righteous who give way to the wicked.”</description>
+      <author>thedeepdepths@protonmail.com</author>
+      <link>https://www.deepdepths.com</link>
+      <pubDate>2021-09-24 00:00:00</pubDate>
+      <enclosure url="http://thedeepdepths.github.io/mp3s/DeepDepths-02.mp3" length="33533952" duration="2564" type="audio/mpeg"/>
+    </item>
   </channel>
 </rss>
