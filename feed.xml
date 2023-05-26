@@ -19,7 +19,7 @@
       <author>thedeepdepths@protonmail.com</author>
       <link>https://www.deepdepths.com</link>
       <pubDate>2021-07-30 00:00:00</pubDate>
-      <enclosure url="http://thedeepdepths.github.io/mp3s/DeepDepths-01.mp3" length="30588928" type="audio/mpeg"/>
+      <enclosure url="http://thedeepdepths.github.io/mp3s/DeepDepths-01.mp3" length="30588928" duration="2686" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
