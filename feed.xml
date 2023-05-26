@@ -1,0 +1,25 @@
+<!-- create a stubbed podcast RSS feed -->
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>The DeepDepths Podcast</title>
+    <link>https://www.deepdepths.com</link>
+    <author>The DeepDepths Podcast</author>
+    <description>A podcast about anything and everything!</description>
+    <image>https://thedeepdepths.github.io/logo.jpg</image>
+    <language>en-us</language>
+    <atom:link href="https://thedeepdepths.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+	  <copyright>The DeepDepths Podcast</copyright>
+    <item>
+      <guid>8f95cd51-63aa-4aeb-8d72-33c51cb29b37</guid>
+      <title>Episode 1: The First Episode</title>
+      <description>Introductions and our thoughts on the dangers and future of a world full of ideological censorship.</description>
+      <content>Introductions and our thoughts on the dangers and future of a world full of ideological censorship.</content>
+      <author>The DeepDepths Podcast</author>
+      <link>https://www.deepdepths.com</link>
+      <pubDate>2021-07-30 00:00:00</pubDate>
+      <thumbnail>https://thedeepdepths.github.io/logo.jpg</thumbnail>
+      <enclosure link="https://thedeepdepths.github.io/mp3s/DeepDepths-01.mp3" length="30586569" duration="2686" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
