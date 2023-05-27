@@ -13,15 +13,42 @@
     <atom:link href="https://thedeepdepths.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <copyright>The DeepDepths Podcast</copyright>
     <item>
-      <guid isPermaLink="false">ec28b234-8e31-4c36-8dbe-9a6c5fb382ac</guid>
-      <title>Episode 14: War, part 1</title>
+      <guid isPermaLink="false">fa5e0be7-de68-44a8-b98c-99de1e5bc3eb</guid>
+      <title>Episode 17: Fairness</title>
+      <description>Today’s episode is all about fairness. In a time which seems to be increasingly divided and tribal, how can we maintain a fair mindset, and be an example of fair people to those seeking fairness?</description>
+      <author>thedeepdepths@protonmail.com</author>
+      <link>https://www.deepdepths.com</link>
+      <pubDate>2023-01-19 00:00:00</pubDate>
+      <enclosure url="http://thedeepdepths.github.io/mp3s/DeepDepths-17.mp3" length="36339712" duration="2875" type="audio/mpeg"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">ef908bfb-c558-47a0-91e4-1a15436a2ca1</guid>
+      <title>Episode 16: War, part 2</title>
+      <description>Today we feature our first guest, Chuck Pike, to continue our discussion of War. We hope you’ll find his insights as valuable as we did!</description>
+      <author>thedeepdepths@protonmail.com</author>
+      <link>https://www.deepdepths.com</link>
+      <pubDate>2022-11-17 00:00:00</pubDate>
+      <enclosure url="http://thedeepdepths.github.io/mp3s/DeepDepths-16.mp3" length="52076544" duration="3435" type="audio/mpeg"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">88e42409-2b36-43b8-a73b-d124fe865ad4</guid>
+      <title>Episode 15: War, part 1</title>
       <description>War! Time to bring the fight to the war mongers (see what we did there?) and chat about violent, international conflict.
 
 (Unfortunately, there was a bit of noise on and off throughout this episode that we weren’t able to entirely remove. Apologies in advance.)</description>
       <author>thedeepdepths@protonmail.com</author>
       <link>https://www.deepdepths.com</link>
-      <pubDate>2022-08-22 00:00:00</pubDate>
-      <enclosure url="http://thedeepdepths.github.io/mp3s/DeepDepths-14.mp3" length="31776768" duration="4141" type="audio/mpeg"/>
+      <pubDate>2022-08-03 00:00:00</pubDate>
+      <enclosure url="http://thedeepdepths.github.io/mp3s/DeepDepths-15.mp3" length="52396032" duration="4141" type="audio/mpeg"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">ec28b234-8e31-4c36-8dbe-9a6c5fb382ac</guid>
+      <title>Episode 14: Professionalism</title>
+      <description>Professionalism. Something that we don’t value as much in modern society as, perhaps, we should. In this episode we discuss professionalism: what it is, and what its benefits might be to you and society as a whole.</description>
+      <author>thedeepdepths@protonmail.com</author>
+      <link>https://www.deepdepths.com</link>
+      <pubDate>2022-06-02 00:00:00</pubDate>
+      <enclosure url="http://thedeepdepths.github.io/mp3s/DeepDepths-14.mp3" length="31776768" duration="2913" type="audio/mpeg"/>
     </item>
     <item>
       <guid isPermaLink="false">7e176b5f-8766-45a3-b8d4-aabfcf300279</guid>
